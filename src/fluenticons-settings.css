@@ -2,76 +2,76 @@
 
 :root {
 	/* Placeholder */
-	--SeIc-icon-placeholder: url("https://waoman.github.io/pc-fluenticons/assets/20/window_settings.svg");
+	--SeIc-icon-placeholder: url("https://waoponpon.github.io/pc-fluenticons/assets/20/window_settings.svg");
 
 	/* Settings */
-	--SeIc-icon-my-account: url("https://waoman.github.io/pc-fluenticons/assets/24/person.svg");
-	--SeIc-icon-profiles: url("https://waoman.github.io/pc-fluenticons/assets/24/edit.svg");
-	--SeIc-icon-privacy-n-safety: url("https://waoman.github.io/pc-fluenticons/assets/24/shield_lock.svg");
-	--SeIc-icon-authorized-apps: url("https://waoman.github.io/pc-fluenticons/assets/24/apps.svg");
-	--SeIc-icon-devices: url("https://waoman.github.io/pc-fluenticons/assets/24/phone_desktop.svg");
-	--SeIc-icon-connections: url("https://waoman.github.io/pc-fluenticons/assets/24/plug_connected.svg");
-	--SeIc-icon-friend-requests: url("https://waoman.github.io/pc-fluenticons/assets/24/person_add.svg");
-	--SeIc-icon-discord-nitro: url("https://waoman.github.io/pc-fluenticons/assets/24/nitro.svg");
-	--SeIc-icon-server-boost: url("https://waoman.github.io/pc-fluenticons/assets/24/boost.svg");
-	--SeIc-icon-subscriptions: url("https://waoman.github.io/pc-fluenticons/assets/24/star.svg");
-	--SeIc-icon-gift-inventory: url("https://waoman.github.io/pc-fluenticons/assets/24/gift.svg");
-	--SeIc-icon-billing: url("https://waoman.github.io/pc-fluenticons/assets/24/receipt.svg");
-	--SeIc-icon-appearance: url("https://waoman.github.io/pc-fluenticons/assets/24/paint_bucket.svg");
-	--SeIc-icon-accessibility: url("https://waoman.github.io/pc-fluenticons/assets/24/accessibility.svg");
-	--SeIc-icon-voice-n-video: url("https://waoman.github.io/pc-fluenticons/assets/24/mic.svg");
-	--SeIc-icon-text-n-images: url("https://waoman.github.io/pc-fluenticons/assets/24/image.svg");
-	--SeIc-icon-notifications: url("https://waoman.github.io/pc-fluenticons/assets/24/alert.svg");
-	--SeIc-icon-keybinds: url("https://waoman.github.io/pc-fluenticons/assets/24/keyboard.svg");
-	--SeIc-icon-language: url("https://waoman.github.io/pc-fluenticons/assets/24/local_language.svg");
-	--SeIc-icon-linux-settings: url("https://waoman.github.io/pc-fluenticons/assets/24/server.svg");
-	--SeIc-icon-windows-settings: url("https://waoman.github.io/pc-fluenticons/assets/24/window.svg");
-	--SeIc-icon-streamer-mode: url("https://waoman.github.io/pc-fluenticons/assets/24/live.svg");
-	--SeIc-icon-advanced: url("https://waoman.github.io/pc-fluenticons/assets/24/wrench.svg");
-	--SeIc-icon-activity-privacy: url("https://waoman.github.io/pc-fluenticons/assets/16/games_lock.svg");
-	--SeIc-icon-registered-games: url("https://waoman.github.io/pc-fluenticons/assets/24/games.svg");
-	--SeIc-icon-game-overlay: url("https://waoman.github.io/pc-fluenticons/assets/24/picture_in_picture.svg");
-	--SeIc-icon-change-log: url("https://waoman.github.io/pc-fluenticons/assets/24/history.svg");
-	--SeIc-icon-hypesquad: url("https://waoman.github.io/pc-fluenticons/assets/24/hypesquad.svg");
-	--SeIc-icon-experiments: url("https://waoman.github.io/pc-fluenticons/assets/24/beaker.svg");
-	--SeIc-icon-developer-options: url("https://waoman.github.io/pc-fluenticons/assets/24/code.svg");
-	--SeIc-icon-hotspot-options: url("https://waoman.github.io/pc-fluenticons/assets/24/communication.svg");
-	--SeIc-icon-dismissible-contents: url("https://waoman.github.io/pc-fluenticons/assets/24/dismiss_circle.svg");
-	--SeIc-icon-payment-flow-modals: url("https://waoman.github.io/pc-fluenticons/assets/24/payment.svg");
-	--SeIc-icon-logout: url("https://waoman.github.io/pc-fluenticons/assets/20/door_arrow_right.svg");
+	--SeIc-icon-my-account: url("https://waoponpon.github.io/pc-fluenticons/assets/24/person.svg");
+	--SeIc-icon-profiles: url("https://waoponpon.github.io/pc-fluenticons/assets/24/edit.svg");
+	--SeIc-icon-privacy-n-safety: url("https://waoponpon.github.io/pc-fluenticons/assets/24/shield_lock.svg");
+	--SeIc-icon-authorized-apps: url("https://waoponpon.github.io/pc-fluenticons/assets/24/apps.svg");
+	--SeIc-icon-devices: url("https://waoponpon.github.io/pc-fluenticons/assets/24/phone_desktop.svg");
+	--SeIc-icon-connections: url("https://waoponpon.github.io/pc-fluenticons/assets/24/plug_connected.svg");
+	--SeIc-icon-friend-requests: url("https://waoponpon.github.io/pc-fluenticons/assets/24/person_add.svg");
+	--SeIc-icon-discord-nitro: url("https://waoponpon.github.io/pc-fluenticons/assets/24/nitro.svg");
+	--SeIc-icon-server-boost: url("https://waoponpon.github.io/pc-fluenticons/assets/24/boost.svg");
+	--SeIc-icon-subscriptions: url("https://waoponpon.github.io/pc-fluenticons/assets/24/star.svg");
+	--SeIc-icon-gift-inventory: url("https://waoponpon.github.io/pc-fluenticons/assets/24/gift.svg");
+	--SeIc-icon-billing: url("https://waoponpon.github.io/pc-fluenticons/assets/24/receipt.svg");
+	--SeIc-icon-appearance: url("https://waoponpon.github.io/pc-fluenticons/assets/24/paint_bucket.svg");
+	--SeIc-icon-accessibility: url("https://waoponpon.github.io/pc-fluenticons/assets/24/accessibility.svg");
+	--SeIc-icon-voice-n-video: url("https://waoponpon.github.io/pc-fluenticons/assets/24/mic.svg");
+	--SeIc-icon-text-n-images: url("https://waoponpon.github.io/pc-fluenticons/assets/24/image.svg");
+	--SeIc-icon-notifications: url("https://waoponpon.github.io/pc-fluenticons/assets/24/alert.svg");
+	--SeIc-icon-keybinds: url("https://waoponpon.github.io/pc-fluenticons/assets/24/keyboard.svg");
+	--SeIc-icon-language: url("https://waoponpon.github.io/pc-fluenticons/assets/24/local_language.svg");
+	--SeIc-icon-linux-settings: url("https://waoponpon.github.io/pc-fluenticons/assets/24/server.svg");
+	--SeIc-icon-windows-settings: url("https://waoponpon.github.io/pc-fluenticons/assets/24/window.svg");
+	--SeIc-icon-streamer-mode: url("https://waoponpon.github.io/pc-fluenticons/assets/24/live.svg");
+	--SeIc-icon-advanced: url("https://waoponpon.github.io/pc-fluenticons/assets/24/wrench.svg");
+	--SeIc-icon-activity-privacy: url("https://waoponpon.github.io/pc-fluenticons/assets/16/games_lock.svg");
+	--SeIc-icon-registered-games: url("https://waoponpon.github.io/pc-fluenticons/assets/24/games.svg");
+	--SeIc-icon-game-overlay: url("https://waoponpon.github.io/pc-fluenticons/assets/24/picture_in_picture.svg");
+	--SeIc-icon-change-log: url("https://waoponpon.github.io/pc-fluenticons/assets/24/history.svg");
+	--SeIc-icon-hypesquad: url("https://waoponpon.github.io/pc-fluenticons/assets/24/hypesquad.svg");
+	--SeIc-icon-experiments: url("https://waoponpon.github.io/pc-fluenticons/assets/24/beaker.svg");
+	--SeIc-icon-developer-options: url("https://waoponpon.github.io/pc-fluenticons/assets/24/code.svg");
+	--SeIc-icon-hotspot-options: url("https://waoponpon.github.io/pc-fluenticons/assets/24/communication.svg");
+	--SeIc-icon-dismissible-contents: url("https://waoponpon.github.io/pc-fluenticons/assets/24/dismiss_circle.svg");
+	--SeIc-icon-payment-flow-modals: url("https://waoponpon.github.io/pc-fluenticons/assets/24/payment.svg");
+	--SeIc-icon-logout: url("https://waoponpon.github.io/pc-fluenticons/assets/20/door_arrow_right.svg");
 
 	/* Guild & Channels */
-	--SeIc-icon-overview: url("https://waoman.github.io/pc-fluenticons/assets/24/info.svg");
-	--SeIc-icon-roles: url("https://waoman.github.io/pc-fluenticons/assets/24/flag.svg");
-	--SeIc-icon-emoji: url("https://waoman.github.io/pc-fluenticons/assets/24/emoji.svg");
-	--SeIc-icon-stickers: url("https://waoman.github.io/pc-fluenticons/assets/24/sticker.svg");
-	--SeIc-icon-integrations: url("https://waoman.github.io/pc-fluenticons/assets/24/apps.svg");
-	--SeIc-icon-widget: url("https://waoman.github.io/pc-fluenticons/assets/24/content_view.svg");
-	--SeIc-icon-server-template: url("https://waoman.github.io/pc-fluenticons/assets/24/board.svg");
-	--SeIc-icon-custom-invite-link: url("https://waoman.github.io/pc-fluenticons/assets/24/link.svg");
-	--SeIc-icon-rules-screening: url("https://waoman.github.io/pc-fluenticons/assets/24/book.svg");
-	--SeIc-icon-safety-setup: url("https://waoman.github.io/pc-fluenticons/assets/24/shield_lock.svg");
-	--SeIc-icon-auto-mod: url("https://waoman.github.io/pc-fluenticons/assets/24/bot.svg");
-	--SeIc-icon-audit-log: url("https://waoman.github.io/pc-fluenticons/assets/24/clipboard_text_ltr.svg");
-	--SeIc-icon-bans: url("https://waoman.github.io/pc-fluenticons/assets/24/person_prohibited.svg");
-	--SeIc-icon-analytics: url("https://waoman.github.io/pc-fluenticons/assets/24/data_trending.svg");
+	--SeIc-icon-overview: url("https://waoponpon.github.io/pc-fluenticons/assets/24/info.svg");
+	--SeIc-icon-roles: url("https://waoponpon.github.io/pc-fluenticons/assets/24/flag.svg");
+	--SeIc-icon-emoji: url("https://waoponpon.github.io/pc-fluenticons/assets/24/emoji.svg");
+	--SeIc-icon-stickers: url("https://waoponpon.github.io/pc-fluenticons/assets/24/sticker.svg");
+	--SeIc-icon-integrations: url("https://waoponpon.github.io/pc-fluenticons/assets/24/apps.svg");
+	--SeIc-icon-widget: url("https://waoponpon.github.io/pc-fluenticons/assets/24/content_view.svg");
+	--SeIc-icon-server-template: url("https://waoponpon.github.io/pc-fluenticons/assets/24/board.svg");
+	--SeIc-icon-custom-invite-link: url("https://waoponpon.github.io/pc-fluenticons/assets/24/link.svg");
+	--SeIc-icon-rules-screening: url("https://waoponpon.github.io/pc-fluenticons/assets/24/book.svg");
+	--SeIc-icon-safety-setup: url("https://waoponpon.github.io/pc-fluenticons/assets/24/shield_lock.svg");
+	--SeIc-icon-auto-mod: url("https://waoponpon.github.io/pc-fluenticons/assets/24/bot.svg");
+	--SeIc-icon-audit-log: url("https://waoponpon.github.io/pc-fluenticons/assets/24/clipboard_text_ltr.svg");
+	--SeIc-icon-bans: url("https://waoponpon.github.io/pc-fluenticons/assets/24/person_prohibited.svg");
+	--SeIc-icon-analytics: url("https://waoponpon.github.io/pc-fluenticons/assets/24/data_trending.svg");
 	--SeIc-icon-partner-program: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:serif='http://www.serif.com/' width='100%25' height='100%25' viewBox='0 0 24 24' version='1.1' xml:space='preserve' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Crect id='Filled' x='0' y='0' width='24' height='24' style='fill:none;'/%3E%3Cg id='Filled1' serif:id='Filled'%3E%3Cg id='partner' transform='matrix(0.0133573,0,0,0.0133573,-33.504,-19.973)'%3E%3Cpath d='M3501.38,2522.73C3449.27,2557.87 3379.02,2547.86 3338.81,2499.55C3323.64,2481.36 3307.6,2466.97 3293.33,2464.2C3277.71,2461.16 3265.38,2461.85 3237.75,2480.48C3181.63,2518.34 3101.44,2572.43 3045.31,2610.28C3032.12,2619.18 3023,2632.96 3019.97,2648.58C3016.93,2664.2 3020.22,2680.39 3029.12,2693.58C3029.12,2693.58 3029.12,2693.58 3029.12,2693.58C3168.29,2899.9 3448.36,2954.34 3654.68,2815.17C3797.21,2719.03 3952.85,2614.05 4067.63,2536.63C4151.16,2480.29 4183.47,2382.11 4127.12,2298.58C4127.12,2298.58 4127.12,2298.58 4127.12,2298.58C4070.78,2215.05 3967.65,2208.22 3884.12,2264.57C3884.12,2264.57 3643.93,2426.57 3501.38,2522.73ZM3311.96,2264.61C3364.06,2229.46 3434.31,2239.48 3474.52,2287.78C3489.69,2305.98 3505.74,2320.37 3520.01,2323.14C3535.63,2326.18 3547.95,2325.49 3575.58,2306.85C3631.71,2268.99 3711.9,2214.91 3768.02,2177.05C3781.22,2168.15 3790.33,2154.38 3793.37,2138.76C3796.41,2123.14 3793.11,2106.95 3784.21,2093.76C3784.21,2093.76 3784.21,2093.76 3784.21,2093.76C3645.05,1887.44 3364.98,1833 3158.66,1972.16C3016.12,2068.3 2860.49,2173.28 2745.71,2250.7C2662.18,2307.05 2629.87,2405.22 2686.22,2488.75C2686.22,2488.75 2686.22,2488.75 2686.22,2488.75C2742.56,2572.29 2845.69,2579.11 2929.22,2522.77C2929.22,2522.77 3169.4,2360.76 3311.96,2264.61Z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); /* This has to be changed later */
-	--SeIc-icon-discovery: url("https://waoman.github.io/pc-fluenticons/assets/24/compass_northwest.svg");
-	--SeIc-icon-welcome-screen: url("https://waoman.github.io/pc-fluenticons/assets/24/hand_wave.svg");
-	--SeIc-icon-server-boost-status: url("https://waoman.github.io/pc-fluenticons/assets/24/boost.svg");
-	--SeIc-icon-members: url("https://waoman.github.io/pc-fluenticons/assets/24/people.svg");
-	--SeIc-icon-invites: url("https://waoman.github.io/pc-fluenticons/assets/24/person_add.svg");
-	--SeIc-icon-permissons: url("https://waoman.github.io/pc-fluenticons/assets/24/flag.svg");
-	--SeIc-icon-delete-channel: url("https://waoman.github.io/pc-fluenticons/assets/24/delete.svg");
+	--SeIc-icon-discovery: url("https://waoponpon.github.io/pc-fluenticons/assets/24/compass_northwest.svg");
+	--SeIc-icon-welcome-screen: url("https://waoponpon.github.io/pc-fluenticons/assets/24/hand_wave.svg");
+	--SeIc-icon-server-boost-status: url("https://waoponpon.github.io/pc-fluenticons/assets/24/boost.svg");
+	--SeIc-icon-members: url("https://waoponpon.github.io/pc-fluenticons/assets/24/people.svg");
+	--SeIc-icon-invites: url("https://waoponpon.github.io/pc-fluenticons/assets/24/person_add.svg");
+	--SeIc-icon-permissons: url("https://waoponpon.github.io/pc-fluenticons/assets/24/flag.svg");
+	--SeIc-icon-delete-channel: url("https://waoponpon.github.io/pc-fluenticons/assets/24/delete.svg");
 
 	/* Replugged */
-	--SeIc-icon-general-settings: url("https://waoman.github.io/pc-fluenticons/assets/24/options.svg");
-	--SeIc-icon-updater: url("https://waoman.github.io/pc-fluenticons/assets/24/arrow_download.svg");
-	--SeIc-icon-plugins: url("https://waoman.github.io/pc-fluenticons/assets/24/puzzle_piece.svg");
-	--SeIc-icon-themes: url("https://waoman.github.io/pc-fluenticons/assets/24/paint_brush.svg");
-	--SeIc-icon-quick-css: url("https://waoman.github.io/pc-fluenticons/assets/24/code.svg");
+	--SeIc-icon-general-settings: url("https://waoponpon.github.io/pc-fluenticons/assets/24/options.svg");
+	--SeIc-icon-updater: url("https://waoponpon.github.io/pc-fluenticons/assets/24/arrow_download.svg");
+	--SeIc-icon-plugins: url("https://waoponpon.github.io/pc-fluenticons/assets/24/puzzle_piece.svg");
+	--SeIc-icon-themes: url("https://waoponpon.github.io/pc-fluenticons/assets/24/paint_brush.svg");
+	--SeIc-icon-quick-css: url("https://waoponpon.github.io/pc-fluenticons/assets/24/code.svg");
 	
 }
 .socialLinks-3ywLUf::after {
-    --crearts-wordmark: url("https://waoman.github.io/pc-fluenticons/assets/24/food_fish.svg")right no-repeat;
+    --crearts-wordmark: url("https://waoponpon.github.io/pc-fluenticons/assets/24/food_fish.svg")right no-repeat;
 }
