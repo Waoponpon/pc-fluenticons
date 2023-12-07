@@ -106,7 +106,7 @@
 	d: path('M12 2a4 4 0 0 1 4 4v2h1.75A2.25 2.25 0 0 1 20 10.25v9.5A2.25 2.25 0 0 1 17.75 22H6.25A2.25 2.25 0 0 1 4 19.75v-9.5A2.25 2.25 0 0 1 6.25 8H8V6a4 4 0 0 1 4-4Zm5.75 7.5H6.25a.75.75 0 0 0-.75.75v9.5c0 .414.336.75.75.75h11.5a.75.75 0 0 0 .75-.75v-9.5a.75.75 0 0 0-.75-.75Zm-5.75 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Zm0-10A2.5 2.5 0 0 0 9.5 6v2h5V6A2.5 2.5 0 0 0 12 3.5Z');
 }
 
-.secured-2wavXv:before {
+.secured__615be:before {
 	content: " ";
 	background: url(https://waoponpon.github.io/pc-fluenticons/assets/24/lock_closed.svg) 50% no-repeat;
 	filter: invert(85%) sepia(6%) saturate(4015%) hue-rotate(78deg) brightness(85%) contrast(93%);
@@ -164,7 +164,7 @@
 }
 
 /* Permission Check */
-.permissionCheckmark-ji-OoY {
+.permissionCheckmark__27f79 {
 	background: url(https://waoponpon.github.io/pc-fluenticons/assets/20/checkmark_circle.svg) no-repeat;
 	filter: invert(55%) sepia(9%) saturate(2732%) hue-rotate(86deg) brightness(97%) contrast(84%);
 }
@@ -327,7 +327,7 @@
 	d: path('M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z')
 }
 
-#app-mount .noResultsImage-1-dP2n {
+#app-mount .noResultsImage__08760 {
 	background-image: url();
 	opacity: .5;
 }
@@ -377,14 +377,14 @@
 	d: path('m4.397 4.554.073-.084a.75.75 0 0 1 .976-.073l.084.073L12 10.939l6.47-6.47a.75.75 0 1 1 1.06 1.061L13.061 12l6.47 6.47a.75.75 0 0 1 .072.976l-.073.084a.75.75 0 0 1-.976.073l-.084-.073L12 13.061l-6.47 6.47a.75.75 0 0 1-1.06-1.061L10.939 12l-6.47-6.47a.75.75 0 0 1-.072-.976l.073-.084-.073.084Z');
 }
 
-.closeButton-30b1gR {
+.closeButton_ffc97a {
 	background: url(https://waoponpon.github.io/pc-fluenticons/assets/24/dismiss_circle.svg) no-repeat;
 	background-position: 50% 50%;
 	background-size: 24px 24px;
 	filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(254deg) brightness(103%) contrast(102%);
 }
 
-.closeButton-PCZcma {
+.closeButton__34341 {
 	border-width: 1px;
 }
 
@@ -650,7 +650,7 @@
 }
 
 /* Emojis */
-.sprite-2lxwfc {
+.sprite__294b3 {
 	background-image: url(https://discord.com/assets/3b560acdc7fcf50d1bf8388aca8e5e7c.png);
 }
 
@@ -758,7 +758,7 @@
 	d: path('M10.788 3.102c.495-1.003 1.926-1.003 2.421 0l2.358 4.778 5.273.766c1.107.16 1.549 1.522.748 2.303l-3.816 3.719.901 5.25c.19 1.104-.968 1.945-1.959 1.424l-4.716-2.48-4.715 2.48c-.99.52-2.148-.32-1.96-1.423l.901-5.251-3.815-3.72c-.801-.78-.359-2.141.748-2.302L8.43 7.88l2.358-4.778Zm1.21.937L9.74 8.614a1.35 1.35 0 0 1-1.016.739l-5.05.734 3.654 3.562c.318.31.463.757.388 1.195l-.862 5.029 4.516-2.375a1.35 1.35 0 0 1 1.257 0l4.516 2.375-.862-5.03a1.35 1.35 0 0 1 .388-1.194l3.654-3.562-5.05-.734a1.35 1.35 0 0 1-1.016-.739L11.998 4.04Z');
 }
 
-.gifTag-1TvtGO {
+.gifTag__9db5a {
 	background-image: url("https://raw.githubusercontent.com/microsoft/fluentui-system-icons/2b653e94544fb2e156913454b6e99be45d99f29f/assets/GIF/SVG/ic_fluent_gif_24_regular.svg");
 	width: 32px;
 	height: 32px;
@@ -848,17 +848,17 @@
 	transform: translate(-7%, -7%) scale(172%);
 }
 
-.emptyChannelIcon-1YdEz2 {
+.emptyChannelIcon__1a1ba {
 	background-color: #fff;
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/number_symbol.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 }
 
-.emptyChannelIcon-1YdEz2.locked-29sj8C {
+.emptyChannelIcon__1a1ba.locked_e10853 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/lock_channel.svg);
 }
 
-.emptyChannelIcon-1YdEz2.voiceChat-30r0jZ {
+.emptyChannelIcon__1a1ba.voiceChat_cde7ee {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/comment.svg);
 }
 
@@ -1274,7 +1274,7 @@
 }
 
 /* Grid */
-/* [class="controlIcon-10O-4h"]{
+/* [class="controlIcon__25700"]{
 	  clip-path: path("M2 4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H4Z");
 	  stroke: currentColor;
 	  stroke-width: 200%;
@@ -1307,7 +1307,7 @@
 }
 
 /* Add Channel */
-[class*="addButtonIcon-3rJeaD"] {
+[class*="addButtonIcon_b776b3"] {
 	transform: scale(1.3) translate(5%, 5%);
 	-webkit-mask-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' %3F%3E%3Csvg height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 5a.5.5 0 0 1 .5.5v2h2a.5.5 0 0 1 0 1h-2v2a.5.5 0 0 1-1 0v-2h-2a.5.5 0 0 1 0-1h2v-2A.5.5 0 0 1 8 5M2 8a6 6 0 1 1 12 0A6 6 0 0 1 2 8m6-5a5 5 0 1 0 0 10A5 5 0 0 0 8 3' fill='currentColor' /%3E%3C/svg%3E");
 	-webkit-mask-repeat: no-repeat;
@@ -1420,7 +1420,7 @@
 	color: transparent;
 }
 
-.theme-dark .imageUploaderIcon-2OHmFu {
+.theme-dark .imageUploaderIcon__0c13b {
 	background-color: #DEDEDE;
 	background-image: url("https://waoponpon.github.io/pc-fluenticons/assets/24/image_add.svg");
 	background-size: 75%;
@@ -1531,7 +1531,7 @@
 
 /* Video Player */
 /* Play */
-[class*="iconPlay-3weMmb icon-23NjRH"] {
+[class*="iconPlay__10d9a icon__7f3d8"] {
 	transform: translate(-3%, 0%);
 	-webkit-mask-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' %3F%3E%3Csvg height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.608 4.615a.75.75 0 0 0-1.108.659v13.452a.75.75 0 0 0 1.108.659l12.362-6.726a.75.75 0 0 0 0-1.318L7.608 4.615ZM5 5.274c0-1.707 1.826-2.792 3.325-1.977l12.362 6.726c1.566.853 1.566 3.101 0 3.953L8.325 20.702C6.826 21.518 5 20.432 5 18.726V5.274Z' fill='currentColor' /%3E%3C/svg%3E");
 	-webkit-mask-repeat: no-repeat;
@@ -1580,7 +1580,7 @@
 }
 
 /* File Icons */
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .description-2AJi-V .filename-1r50Xu {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .description__4ba40 .filename__06077 {
 	font-size: 20px;
 	font-weight: 700;
 	height: 24px;
@@ -1588,13 +1588,13 @@
 }
 
 /* Default */
-.icon-2bPCaV.unknown-1HSceW {
+.icon_c2f643.unknown_f537da {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/document.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(200%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.unknown-3ClW7Z {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.unknown__050f0 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/document.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1602,20 +1602,20 @@
 }
 
 /* MP3 Icon */
-.audioMetadata-1Hrt8T:before {
+.audioMetadata_e546a8:before {
 	width: 37px;
 	height: 44px;
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/32/speaker_2.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 }
 
-.icon-2bPCaV.audio-bZBBRF {
+.icon_c2f643.audio__4fc0c {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/speaker_2.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(200%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.audio-YC1s9s {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.audio__60947 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/48/speaker_2.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1623,13 +1623,13 @@
 }
 
 /* MP4 Icon */
-.icon-2bPCaV.video-qa3DnY {
+.icon_c2f643.video_a02156 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/video_clip.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.video-L7uQxc {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.video__2df8a {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/video_clip.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1637,13 +1637,13 @@
 }
 
 /* Text File */
-.icon-2bPCaV.document-3AUmU1 {
+.icon_c2f643.document__49623 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/document_text.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.document-1u6V3N {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.document_ed6edd {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/document_text.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1651,13 +1651,13 @@
 }
 
 /* ZIP Icon */
-.icon-2bPCaV.archive-1zydwk {
+.icon_c2f643.archive__2249d {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/folder_zip.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.archive-2bNoJA {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.archive__97ef8 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/folder_zip.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1665,13 +1665,13 @@
 }
 
 /* HTML Icon */
-.icon-2bPCaV.webcode-3EYK4X {
+.icon_c2f643.webcode_d3a040 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/code.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.webcode-18ObW7 {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.webcode__46b50 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/code.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1679,13 +1679,13 @@
 }
 
 /* Code Icon */
-.icon-2bPCaV.code-1hTP09 {
+.icon_c2f643.code_d3dfc7 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/braces.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.code-rRQnfi {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.code_c12073 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/braces.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
@@ -1693,13 +1693,13 @@
 }
 
 /* PDF Icon */
-.icon-2bPCaV.acrobat-3i7zSC {
+.icon_c2f643.acrobat_fec748 {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/document_pdf.svg);
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
 	transform: scale(480%);
 }
 
-.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR .icon-HW4tZ-.acrobat-2-m_um {
+.uploadModal_eae2a0 .inner__7afe9 .file_f309f6 .icon__25b13.acrobat__3923e {
 	background-image: url(https://waoponpon.github.io/pc-fluenticons/assets/20/document_pdf.svg);
 	margin: -20px 0px;
 	filter: invert(86%) sepia(3%) saturate(267%) hue-rotate(177deg) brightness(89%) contrast(84%);
